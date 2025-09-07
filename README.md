@@ -17,6 +17,7 @@ A simple and responsive weather forecast web application built using HTML, CSS, 
 - **OpenWeatherMap API** – Live weather data
 
 ## 📸 Screenshots
+<img width="883" height="392" alt="image" src="https://github.com/user-attachments/assets/8d240c62-ad55-4a3e-a9dd-0804f36b27c5" />
 
 <img width="848" height="865" alt="image" src="https://github.com/user-attachments/assets/57d491b8-cb04-41b2-9162-18166c7eedbf" />
 
