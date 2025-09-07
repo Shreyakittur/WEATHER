@@ -9,7 +9,6 @@ A simple and responsive weather forecast web application built using HTML, CSS, 
 - 📱 Responsive design for desktop and mobile
 - ⚠️ Error handling for invalid inputs or failed API calls
 
-
 ## 🛠️ Technologies Used
 
 - **HTML** – Page structure
@@ -17,11 +16,10 @@ A simple and responsive weather forecast web application built using HTML, CSS, 
 - **JavaScript** – Logic and API integration
 - **OpenWeatherMap API** – Live weather data
 
-
-
 ## 📸 Screenshots
 
-<img width="988" height="742" alt="Screenshot 2025-09-03 122328" src="https://github.com/user-attachments/assets/f590aa91-1490-4e0c-9f43-f722e4af0df4" />
+<img width="848" height="865" alt="image" src="https://github.com/user-attachments/assets/57d491b8-cb04-41b2-9162-18166c7eedbf" />
+
 
 
 ## 📦 Installation & Usage
